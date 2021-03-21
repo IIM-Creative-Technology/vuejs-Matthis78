@@ -1,3 +1,4 @@
+RENDU FAIT AVEC LUCAS ORSINI
 # rendue-vuejs
 
 ## Project setup
